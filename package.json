@@ -1,5 +1,5 @@
 {
-  "name": "extractLinksFromMd-janarf",
+  "name": "extractlinksfrommd-janarf",
   "version": "1.0.0",
   "description": "Extract links from markdown to object",
   "main": "index.js",
